@@ -1,0 +1,322 @@
+---
+title: "Project"
+author: "NagaSarvani_0828964"
+format: pdf
+editor: visual
+bibliography: citations.bib
+---
+
+**click on [URL](https://nagasarvani-pokala.shinyapps.io/Final_project/) to acess app link**
+
+### INTRODUCTION:
+
+An interactive application called **Fast Food Sales Dashboard** is developed to provide insights to fast food sales data for the year 2022. This development is done using **R shiny**. This dashboard offers a user-friendly or User Interactive(UI) for analyzing various aspects of fast food sales, including item types, transaction types, time of sales and sales distribution across different months in 2022 year.
+
+The purpose of this application is to encourage the stakeholders in the fast food industry with a powerful tool for understanding sales trends, identifying popular items, and gaining insights to inform strategic decision-making. By using interactive data visualization, the dashboard enables users to go deeper into the underlying patterns of fast food sales, ultimately enhancing their ability to optimize operations, improve marketing strategies, and meet customer demands effectively.
+
+Understanding the customer preferences, sales patterns, and market trends makes the fast food industry a successful one. However, traditional method of analyzing large volumes of sales data and extracting meaningful insights can be challenging and time-consuming and this approach also lacks flexibility making it difficult for stakeholders to discover any actionable insights in a timely manner.
+
+The objective of this document is to provide a detailed overview of the Fast Food Sales Dashboard, its functionality, and its potential value to stakeholders in the fast food industry. Through detailed descriptions of the dashboard features, including filters for item types, transaction types, time of sale, and sale month, as well as summary statistics and interactive visualizations such as bar plots for most popular items and sales distribution, readers will gain a clear understanding of how the dashboard can be used to analyze fast food sales data effectively.
+
+By reading this document, readers can expect to gain insight into the purpose and functionality of the Fast Food Sales Dashboard. Understand how the dashboard addresses the challenges faced by stakeholders in the fast food industry. Learn about the key features of the dashboard, including filter options, summary statistics, and interactive visualizations.
+
+### PROBLEM STATEMENT AND LITERATURE REVIEW:
+
+Understanding consumer preferences, sales trends, and market dynamics is crucial for success in the fast food industry, which operates within a highly competitive and dynamic market environment. However, industry professionals face significant challenges in analysing and comprehending large databases of fast food sales. Traditional data analysis methods often lack the flexibility and interactivity required to explore data from diverse perspectives and generate meaningful insights efficiently.
+
+To address these challenges, this application introduces features such as checkboxes for Transaction Type (online or cash) and user input for Sale Month, focusing on the increasing importance of online transactions and the potential impact of sales timing on revenue generation. These features are informed by research findings such as the @alzoubi_effect_2022 study on the rising significance of online transactions and the influence of sales timing on fast food purchasing behaviour, as discussed in the paper @Role_of_Time_in_Fast-Food_Purchasing_Behavior_in_United_States
+
+By allowing users to specify transaction types and sales months, the application enables stakeholders to assess sales performance and identify opportunities for business improvement. For example, stakeholders can analyse which months generate higher income and determine peak sales times, leveraging insights from studies @Month-of-the-year_effects_in_Asian_countries .Ultimately, the application aims to provide a user-friendly and insightful tool for navigating fast food sales data, supporting informed decision-making and strategic planning in the competitive fast food industry landscape.
+
+### FEATURES
+
+-   **Interactive Filters:** Users can filter the fast food sales data based on various criteria such as item type, time of sale, and sale month and select transaction type based on the interest. These interactive filters allow users to customize their analysis according to specific parameters of interest.
+
+-   **Summary Statistics:** The dashboard provides summary statistics such as total sales and average transaction amount based on the filtered data. This feature gives users a quick overview of key metrics relevant to their analysis.
+
+-   **Most Popular Items:** Users can visualize the top five most popular items based on the quantity sold. This feature helps users identify the best-selling products and understand customer preferences.
+
+-   **Sales Distribution:** The dashboard includes a visualization of sales distribution by item type, transaction type, and month. This feature enables users to analyze sales trends over time and across different categories, providing insights into overall sales performance and patterns.
+
+### FUNCTIONALITY
+
+Using check boxes and drop down menus, users can dynamically filter the data set according to their choices in the built app. These filter choices are processed by the dashboard in real-time, changing the results that are shown. The dashboard gives users an overview of the entire sales performance by computing and displaying summary information, such as total sales and average transaction value. Users are able to visually explore the data and obtain insights into sales patterns and trends using interactive visualizations, such as bar plots for the most popular items and sales distribution. The dashboard ensures a smooth and easy-to-use user experience by effectively processing user input and modifying the displayed results accordingly.
+
+### USABILITY
+
+-   **Interactive Interface:** This dashboard gives a user-friendly experience with labels and clear instructions which makes easy for users to navigate through different aspects of data.
+
+-   **Real-time Updates:** Based upon filter selections, users get instant feedback as they interact with the dashboard with various data visualizations.
+
+-   **Customization Options:** Individuals can enhance their analysis by choosing particular filter criteria and modifying parameters as required, thereby improving the ease of use and effectiveness of the dashboard.
+
+-   **Insightful Visualizations:** The dashboard showcases data in visually engaging and informative ways, enabling users to swiftly comprehend significant insights and trends derived from the sales data.
+
+### INSTRUCTIONS TO USE APPLICATION
+
+#### 1.Access the Dashboard:
+
+-   Open the web browser on your computer or mobile device.
+
+-    Click on the link provided [App_link](https://nagasarvani-pokala.shinyapps.io/Final_project/) to access the Fast Food Sales Dashboard.
+
+#### 2.Explore Filters:
+
+-   On the left sidebar of the dashboard, you'll find various filters labeled "Filters."
+
+-   Use the dropdown menu labelled ***Item Type*** to select a specific item type, or leave it as "All" to include all item types in the analysis.
+
+-   Use the checkbox group named ***Transaction Type*** to select one or more transaction types, or leave it unchecked to include all transaction types.
+
+-   Use the dropdown menu labelled ***Time of Sale*** to select a specific time period (Morning, Afternoon, Evening, Night), or leave it as "All" to include all times of sale.
+
+-   Use the dropdown menu named ***Sale Month*** to select a specific month, or leave it as "All" to include all months in the analysis.
+
+#### 3.View Summary Statistics:
+
+-   After selecting your desired filter criteria, navigate to the ***Summary Statistics*** tab located in the main panel of the dashboard.
+
+-   Here, you'll find summary statistics such as total sales and average transaction amount based on the filtered data.
+
+#### 4.Explore Most Popular Items:
+
+-   Navigate to the ***Most Popular Items*** tab located in the main panel of the dashboard.
+
+-   You'll see a bar plot displaying the top five most popular items based on the quantity sold.
+
+-   Hover over each bar to view the total sales for the corresponding item.
+
+#### 5.Analyze Sales Distribution:
+
+-   Navigate to the ***Sales Distribution*** tab located in the main panel of the dashboard.
+
+-   You'll see a bar plot displaying the sales distribution by item type, transaction type, and month.
+
+-   Use the dropdown menu labeled "Sale Month" to navigate between different months.
+
+-   Hover over each bar to view the total sales for the corresponding item type, transaction type, and month.
+
+#### 6.Adjust Filters and Repeat Analysis:
+
+-   If desired, go back to the filters on the left sidebar and adjust your filter selections to refine your analysis.
+
+-   Repeat steps 3 to 5 to explore different subsets of the data and gain deeper insights into fast food sales trends and patterns.
+
+#### 7.Close the Dashboard:
+
+-   Once you've finished analyzing the data, you can close the web browser tab or navigate away from the dashboard URL to exit the application.
+
+By following these step-by-step instructions, you'll be able to effectively use the Fast Food Sales Dashboard to analyze fast food sales data and gain valuable insights into sales trends and patterns.
+
+### TECHNICAL DETAILS:
+
+-   The data used in the application was obtained from @kaggle_dataset website, a popular platform for sharing and discovering datasets. Kaggle hosts a wide range of datasets across various domains, including economics, healthcare, and social sciences. The specific dataset used for the Fast Food Sales Dashboard contains information about fast food sales for the year 2022, including details such as order_id,sale_month,item_name,item_type,item_price,quantity,transaction_amount and its type, received_by,time_of_sale.
+
+-   In this application, usage of R programming language is done as , R is a versatile open-source language for statistical computing and graphics, renowned for its extensive package ecosystem and popularity in data analysis and visualization. Shiny, an R package @Shiny_R , facilitates the creation of interactive web applications, empowering users to develop dynamic dashboards and visualizations directly from R code.
+
+-   **Libraries Used:**
+
+    -   **shiny:** The core R package for building interactive web applications. It provides functions and utilities for creating user interfaces, handling user inputs, and generating dynamic output. In the Shiny application, the shiny package is used to develop the interactive dashboard for exploring fast food sales data.
+
+    -   **dplyr:** A popular R package for data manipulation and transformation. It provides a set of functions for filtering, summarizing, and arranging data, which are essential for preparing data for analysis in the Shiny application.
+
+    -   **ggplot2:** A powerful R package for creating graphics and visualizations. It offers a flexible and intuitive syntax for generating a wide range of plots, including bar plots, scatter plots, and histograms. In the Shiny application, ggplot2 is used to create interactive visualizations of fast food sales data.
+
+-   **Deployment Platform:**
+
+    -   Shiny applications can be deployed to various platforms for hosting and sharing with others. In this case, the Fast Food Sales Dashboard was deployed to shinyapps.io, a cloud-based platform for hosting Shiny applications @shinyapps.io allows users to deploy and share Shiny applications with a wider audience, providing scalability and accessibility without the need for setting up and maintaining server infrastructure.
+
+        ```{r results='hide',warning=FALSE,error=FALSE,message=FALSE}
+
+        #loading necessary libraries
+        library(rsconnect)
+        library(shiny)
+        library(dplyr)
+        library(ggplot2)
+        #loading fast food sales csv into fast_food_sales variable
+        fast_food_sales <- read.csv("fast_food_sales.csv")
+
+        # Define UI
+        ui <- fluidPage(
+          tags$style(
+            #posting a picture on background at top position using HTML body
+            HTML(
+              "
+              body {
+                background-image: url('https://
+                i.pinimg.com/originals/3f/12/26/
+                3f12264cad7f964c30ec0af37c19154a.png');
+                background-size: cover;
+                background-position: top;
+                background-repeat: no-repeat;
+              }
+               
+                
+              "
+            )
+          ),
+          #adding tittle to the dashboard
+          titlePanel("Fast Food Sales Dashboard"), 
+          sidebarLayout(
+            #adding side inputs on the dashboard
+            sidebarPanel( 
+              h4("Filters"),
+              #creating item_type selection input
+              selectInput("item_type", "Item Type:", 
+                          choices = c("All", 
+                                      unique(fast_food_sales$item_type))),
+              #creating checkbox for transaction type
+              checkboxGroupInput("transaction_type",
+                                 "Transaction Type:",
+                                 choices = 
+                                   unique(fast_food_sales$transaction_type)),
+              #creating time of sale as selection input
+              selectInput("time_of_sale", 
+                          "Time of Sale:", 
+                          choices = 
+                            c("All", unique(fast_food_sales$time_of_sale))),
+              #creating sale_month as selection input
+              selectInput("sale_month", 
+                          "Sale Month:",
+                          choices = 
+                            c("All", unique(fast_food_sales$sale_month)))
+            ),
+            mainPanel(
+              tabsetPanel(
+                #Creating summary stasts tab to show summary results 
+                tabPanel("Summary Statistics",
+                         verbatimTextOutput("summary_stats")),
+                #creating Most popular items tab to show plot output 
+                tabPanel("Most Popular Items",
+                         plotOutput("popular_items")),
+                #creating sales distribution  tab to show plot output 
+                tabPanel("Sales Distribution",
+                         plotOutput("sales_distribution"))
+              )
+            )
+          )
+        )
+
+        # Define server logic
+        server <- function(input, output) {
+          
+          # Summary statistics
+          output$summary_stats <- renderPrint({
+            filtered_data <- filter_data()
+            summary_stats <- summarise(filtered_data,
+                                       Total_Sales = sum(transaction_amount),
+                                       Avg_Transaction_Amount = 
+                                         mean(transaction_amount))
+            summary_stats
+          })
+          
+          # Most popular items plot, which shows only 
+          #top 5 items on high sale.
+          output$popular_items <- renderPlot({
+            filtered_data <- filter_data()
+            top_items <- filtered_data %>%
+              group_by(item_name) %>%
+              summarise(Total_Sales = sum(quantity)) %>%
+              top_n(5, Total_Sales)
+            
+            ggplot(top_items, 
+                   aes(x = reorder(item_name, Total_Sales),
+                       y = Total_Sales)) +
+              geom_bar(stat = "identity",
+                       fill = "#4CCD99") +  # Set bar color to green
+              labs(title = "Most Popular Items", 
+                   x = "Item Name", 
+                   y = "Total Sales") + #giving names 
+              theme(axis.text.x = element_text(angle = 45, hjust = 1), 
+                    # Increase font size for axis labels
+                    axis.title = element_text(size = 14)) +  
+              guides(fill = FALSE)  # Remove legend
+          })
+          
+          # Sales distribution based on sale_month,
+          #item_type,transaction_type and time of sale.
+          output$sales_distribution <- renderPlot({
+            filtered_data <- filter_data()
+            sales_distribution <- filtered_data %>%
+              #doing group by on the params
+              group_by(sale_month, item_type, 
+                       transaction_type, time_of_sale) %>% 
+              summarise(Total_Sales = sum(transaction_amount)) %>%
+              ggplot(aes(x = sale_month, 
+                         y = Total_Sales, 
+                         fill = item_type)) +
+              geom_bar(stat = "identity", 
+                       position = "dodge") +
+              facet_grid(transaction_type ~ .) +
+              #giving names to axis
+              labs(title = "Sales Distribution by Item Type, 
+                   Transaction Type, and Month",
+                   x = "Months in 2022 year", y = "Total Sales") +
+              scale_fill_discrete(name = "Item Type") +
+              theme(axis.text.x = element_text(angle = 45, hjust = 1),
+                    # Increase font size for axis labels
+                    axis.title = element_text(size = 14)) +
+              # Set x-axis scale from 1 to 12
+              scale_x_continuous(breaks = 1:12, limits = c(1, 12))  
+            sales_distribution
+          })
+          
+          # Function to filter data based on user inputs
+          filter_data <- reactive({
+            filtered_data <- fast_food_sales
+            if (input$item_type != "All") {
+              #if filtered data is not equal to ALL 
+              #then filter based on itemtype selected
+              filtered_data <- filtered_data %>%
+                filter(item_type == input$item_type)
+            }
+            if (!is.null(input$transaction_type) 
+                && "All" 
+                %in% input$transaction_type) {
+              #if nothing is selected then transaction 
+              #type takes both the transaction data 
+              filtered_data <- filtered_data
+            } else if (!is.null(input$transaction_type)) {
+              #filter based on the transaction type.
+              filtered_data <- filtered_data %>%
+                filter(transaction_type %in% input$transaction_type)
+            }
+            if (input$time_of_sale != "All") {
+              #if filtered data is not equal to ALL 
+              #then filter based on itemtype selected
+              filtered_data <- filtered_data %>%
+                filter(time_of_sale == input$time_of_sale)
+            }
+            if (input$sale_month != "All") {
+              #if filtered data is not equal to ALL 
+              #then filter based on itemtype selected
+              filtered_data <- filtered_data %>%
+                filter(sale_month == input$sale_month)
+            }
+            filtered_data
+          })
+        }
+
+        # Run the application
+        shinyApp(ui = ui, server = server)
+
+
+        ```
+
+### PLATFORM COMPATIBILITY:
+
+Shiny applications run in a web browser, making them accessible from any device with internet connectivity, including desktop computers, laptops, tablets, and smartphones. Users can access the dashboard using popular web browsers such as Google Chrome, Mozilla Firefox, Safari, or Microsoft Edge, regardless of the underlying operating system (Windows, macOS, Linux, etc.). Shiny applications are built with responsive design principles, ensuring that the layout and functionality adapt to different screen sizes and resolutions. As a result, users can interact with the dashboard seamlessly across devices, from large desktop monitors to smaller mobile screens. The underlying technologies used to develop Shiny applications, such as R programming language, HTML, CSS, and JavaScript, are inherently cross-platform. This means that the Fast Food Sales Dashboard will behave consistently across different operating systems and devices, providing a uniform user experience regardless of the user's platform.
+
+No Installation Required: Since Shiny applications run in a web browser, users do not need to install any additional software or dependencies on their devices. They can simply access the dashboard using the provided URL, eliminating compatibility issues related to software installations and configurations.
+
+Overall, the Fast Food Sales Dashboard offers platform independence and compatibility, allowing users to analyze fast food sales data conveniently across a wide range of devices and operating systems without any restrictions.
+
+### CONCLUSION:
+
+The R Shiny-powered Fast Food Sales Dashboard offers a comprehensive tool for analyzing and interpreting fast food sales data from 2022. Through an interactive interface featuring intuitive filters and visuals, stakeholders in the fast food industry gain valuable insights into sales trends, customer preferences, and market dynamics.Users can customize their analysis by selecting specific item types, transaction types, times of sale, and sale months using interactive filters. The dashboard provides summary statistics, including total sales and average transaction amount, for a quick overview of key metrics.
+
+Additionally, the Most Popular Items visualization highlights the top five best-selling items based on quantity sold, while the Sales Distribution visualization offers insights into sales trends by item type, transaction type, and month.With its user-friendly interface, real-time updates, and insightful visualizations, the Fast Food Sales Dashboard enhances the usability and effectiveness of fast food sales data analysis. Leveraging R Shiny and data from sources like Kaggle, it serves as a valuable tool for optimizing operations, refining marketing strategies, and meeting customer demands in the competitive fast food industry.
+
+Overall, the dashboard provides a powerful solution for navigating fast food sales data, empowering decision-makers with actionable insights to drive business success and innovation in the fast food market landscape.
+
+### REFERENCES:

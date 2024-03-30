@@ -1,0 +1,1001 @@
+order_id,sale_month,item_name,item_type,item_price,quantity,transaction_amount,transaction_type,received_by,time_of_sale
+1,8,Aalopuri,Fastfood,3,13,39,Online,Male,Night
+2,8,Vadapav,Fastfood,3,15,45,Cash,Male,Afternoon
+3,7,Vadapav,Fastfood,3,1,3,Cash,Male,Afternoon
+4,7,Sugarcane juice,Beverages,4,6,24,Online,Male,Night
+5,7,Sugarcane juice,Beverages,4,8,32,Online,Male,Morning
+6,7,Vadapav,Fastfood,3,10,30,Cash,Male,Morning
+7,7,Sugarcane juice,Beverages,4,9,36,Cash,Male,Morning
+8,7,Panipuri,Fastfood,3,14,42,Online,Male,Night
+9,7,Panipuri,Fastfood,3,1,3,Cash,Female,Morning
+10,7,Panipuri,Fastfood,3,5,15,Online,Male,Afternoon
+11,7,Frankie,Fastfood,8,8,64,Online,Female,Afternoon
+12,7,Vadapav,Fastfood,3,8,24,Online,Female,Night
+13,7,Panipuri,Fastfood,3,9,27,Online,Female,Afternoon
+14,7,Frankie,Fastfood,8,4,32,Online,Male,Morning
+15,9,Aalopuri,Fastfood,3,3,9,Cash,Female,Morning
+16,9,Sandwich,Fastfood,10,11,110,Online,Female,Evening
+17,9,Panipuri,Fastfood,3,11,33,Cash,Female,Morning
+18,9,Panipuri,Fastfood,3,10,30,Cash,Female,Night
+19,9,Panipuri,Fastfood,3,11,33,Cash,Female,Night
+20,9,Cold coffee,Beverages,6,10,60,Online,Male,Night
+21,9,Cold coffee,Beverages,6,15,90,Cash,Male,Morning
+22,9,Sugarcane juice,Beverages,4,12,48,Online,Male,Morning
+23,9,Sandwich,Fastfood,10,3,30,Online,Male,Evening
+24,9,Sugarcane juice,Beverages,4,10,40,Online,Male,Afternoon
+25,9,Sandwich,Fastfood,10,1,10,Online,Female,Morning
+26,9,Sugarcane juice,Beverages,4,4,16,Cash,Male,Afternoon
+27,9,Cold coffee,Beverages,6,11,66,Online,Female,Afternoon
+28,9,Cold coffee,Beverages,6,10,60,Online,Female,Afternoon
+29,8,Sugarcane juice,Beverages,4,9,36,Online,Male,Afternoon
+30,8,Frankie,Fastfood,8,2,16,Cash,Female,Night
+31,8,Cold coffee,Beverages,6,13,78,Online,Female,Morning
+32,8,Aalopuri,Fastfood,3,4,12,Online,Male,Morning
+33,8,Aalopuri,Fastfood,3,13,39,Online,Male,Night
+34,8,Frankie,Fastfood,8,12,96,Online,Female,Morning
+35,8,Vadapav,Fastfood,3,8,24,Cash,Male,Morning
+36,8,Cold coffee,Beverages,6,10,60,Online,Male,Afternoon
+37,8,Frankie,Fastfood,8,10,80,Cash,Male,Night
+38,8,Panipuri,Fastfood,3,12,36,Online,Female,Night
+39,8,Vadapav,Fastfood,3,2,6,Online,Male,Morning
+6,8,Sandwich,Fastfood,10,5,50,Online,Female,Night
+41,8,Cold coffee,Beverages,6,11,66,Online,Male,Afternoon
+42,1,Aalopuri,Fastfood,3,8,24,Online,Female,Night
+43,1,Vadapav,Fastfood,3,1,3,Cash,Male,Night
+44,1,Cold coffee,Beverages,6,12,72,Cash,Male,Morning
+45,1,Sugarcane juice,Beverages,4,6,24,Cash,Female,Afternoon
+46,1,Vadapav,Fastfood,3,7,21,Cash,Male,Morning
+47,1,Sandwich,Fastfood,10,7,70,Online,Male,Morning
+48,1,Sandwich,Fastfood,10,14,140,Online,Male,Afternoon
+49,1,Frankie,Fastfood,8,4,32,Online,Female,Morning
+8,1,Vadapav,Fastfood,3,8,24,Cash,Female,Evening
+51,1,Frankie,Fastfood,8,15,120,Online,Female,Morning
+52,1,Sugarcane juice,Beverages,4,12,48,Cash,Female,Evening
+53,2,Aalopuri,Fastfood,3,13,39,Cash,Male,Afternoon
+54,2,Panipuri,Fastfood,3,14,42,Online,Female,Morning
+55,2,Sandwich,Fastfood,10,10,100,Cash,Male,Night
+56,2,Panipuri,Fastfood,3,11,33,Cash,Female,Evening
+57,2,Panipuri,Fastfood,3,14,42,Online,Female,Morning
+58,2,Vadapav,Fastfood,3,6,18,Online,Female,Morning
+59,2,Vadapav,Fastfood,3,5,15,Cash,Male,Morning
+10,2,Cold coffee,Beverages,6,2,12,Online,Male,Night
+61,2,Vadapav,Fastfood,3,14,42,Cash,Female,Afternoon
+62,2,Sugarcane juice,Beverages,4,3,12,Cash,Male,Afternoon
+63,5,Sandwich,Fastfood,10,7,70,Online,Female,Morning
+64,5,Cold coffee,Beverages,6,1,6,Cash,Male,Morning
+65,5,Aalopuri,Fastfood,3,4,12,Cash,Male,Morning
+66,5,Frankie,Fastfood,8,2,16,Cash,Female,Morning
+67,5,Aalopuri,Fastfood,3,9,27,Cash,Male,Evening
+68,5,Cold coffee,Beverages,6,2,12,Online,Male,Night
+69,5,Vadapav,Fastfood,3,7,21,Cash,Male,Evening
+70,5,Cold coffee,Beverages,6,14,84,Online,Female,Morning
+71,5,Cold coffee,Beverages,6,6,36,Online,Male,Night
+72,5,Frankie,Fastfood,8,13,104,Online,Male,Afternoon
+73,5,Panipuri,Fastfood,3,5,15,Cash,Male,Evening
+74,5,Cold coffee,Beverages,6,10,60,Online,Female,Morning
+75,5,Cold coffee,Beverages,6,6,36,Online,Female,Afternoon
+76,5,Vadapav,Fastfood,3,9,27,Online,Male,Morning
+77,5,Sugarcane juice,Beverages,4,12,48,Cash,Female,Evening
+78,5,Vadapav,Fastfood,3,4,12,Cash,Female,Morning
+79,5,Panipuri,Fastfood,3,6,18,Online,Male,Night
+80,5,Frankie,Fastfood,8,13,104,Cash,Male,Morning
+81,5,Frankie,Fastfood,8,12,96,Online,Female,Night
+82,5,Frankie,Fastfood,8,3,24,Online,Female,Morning
+83,5,Frankie,Fastfood,8,11,88,Online,Male,Morning
+84,5,Panipuri,Fastfood,3,13,39,Cash,Male,Evening
+85,5,Aalopuri,Fastfood,3,3,9,Online,Female,Night
+86,5,Aalopuri,Fastfood,3,15,45,Cash,Male,Morning
+87,5,Aalopuri,Fastfood,3,8,24,Cash,Male,Night
+88,5,Cold coffee,Beverages,6,10,60,Cash,Male,Morning
+89,5,Aalopuri,Fastfood,3,14,42,Cash,Male,Morning
+90,5,Vadapav,Fastfood,3,15,45,Online,Male,Night
+91,5,Cold coffee,Beverages,6,6,36,Online,Female,Morning
+92,5,Aalopuri,Fastfood,3,15,45,Cash,Male,Afternoon
+93,5,Cold coffee,Beverages,6,2,12,Online,Female,Evening
+94,5,Aalopuri,Fastfood,3,15,45,Online,Female,Night
+95,5,Sugarcane juice,Beverages,4,8,32,Online,Male,Night
+96,5,Sandwich,Fastfood,10,15,150,Online,Male,Morning
+97,5,Cold coffee,Beverages,6,13,78,Online,Male,Morning
+98,5,Vadapav,Fastfood,3,1,3,Online,Male,Morning
+99,5,Sugarcane juice,Beverages,4,3,12,Cash,Male,Morning
+100,5,Panipuri,Fastfood,3,11,33,Online,Male,Morning
+101,5,Vadapav,Fastfood,3,3,9,Online,Female,Morning
+102,5,Cold coffee,Beverages,6,14,84,Cash,Male,Morning
+103,5,Cold coffee,Beverages,6,8,48,Online,Female,Evening
+104,5,Cold coffee,Beverages,6,13,78,Online,Male,Morning
+105,5,Panipuri,Fastfood,3,8,24,Cash,Female,Morning
+106,5,Frankie,Fastfood,8,9,72,Cash,Female,Morning
+107,5,Sandwich,Fastfood,10,4,40,Online,Male,Afternoon
+108,5,Panipuri,Fastfood,3,5,15,Online,Male,Afternoon
+109,5,Cold coffee,Beverages,6,12,72,Online,Male,Afternoon
+110,5,Panipuri,Fastfood,3,2,6,Online,Female,Morning
+111,5,Sandwich,Fastfood,10,8,80,Cash,Female,Evening
+112,5,Sandwich,Fastfood,10,7,70,Cash,Male,Morning
+113,5,Aalopuri,Fastfood,3,8,24,Cash,Male,Afternoon
+114,5,Aalopuri,Fastfood,3,10,30,Online,Male,Afternoon
+115,5,Aalopuri,Fastfood,3,13,39,Online,Male,Morning
+116,5,Sugarcane juice,Beverages,4,13,52,Cash,Male,Morning
+117,5,Frankie,Fastfood,8,7,56,Online,Female,Morning
+118,5,Sandwich,Fastfood,10,1,10,Online,Male,Evening
+119,5,Panipuri,Fastfood,3,10,30,Cash,Male,Morning
+120,5,Frankie,Fastfood,8,2,16,Cash,Female,Morning
+121,5,Cold coffee,Beverages,6,8,48,Cash,Male,Afternoon
+122,5,Panipuri,Fastfood,3,3,9,Online,Female,Night
+123,5,Cold coffee,Beverages,6,6,36,Online,Male,Morning
+124,5,Sugarcane juice,Beverages,4,13,52,Online,Female,Morning
+125,5,Vadapav,Fastfood,3,7,21,Cash,Female,Evening
+126,5,Panipuri,Fastfood,3,11,33,Online,Female,Night
+127,5,Aalopuri,Fastfood,3,1,3,Online,Female,Morning
+128,5,Vadapav,Fastfood,3,11,33,Online,Male,Evening
+129,5,Panipuri,Fastfood,3,13,39,Cash,Female,Morning
+130,5,Sugarcane juice,Beverages,4,7,28,Cash,Male,Night
+131,5,Sandwich,Fastfood,10,8,80,Cash,Male,Night
+132,5,Vadapav,Fastfood,3,4,12,Online,Female,Night
+133,5,Aalopuri,Fastfood,3,5,15,Online,Male,Evening
+134,5,Aalopuri,Fastfood,3,12,36,Online,Female,Night
+135,5,Aalopuri,Fastfood,3,8,24,Online,Male,Evening
+136,5,Aalopuri,Fastfood,3,15,45,Online,Male,Morning
+137,5,Sugarcane juice,Beverages,4,6,24,Online,Male,Afternoon
+138,5,Sandwich,Fastfood,10,15,150,Online,Male,Night
+139,5,Frankie,Fastfood,8,11,88,Online,Female,Night
+16,5,Frankie,Fastfood,8,13,104,Cash,Male,Night
+141,5,Aalopuri,Fastfood,3,4,12,Online,Male,Morning
+142,5,Sugarcane juice,Beverages,4,12,48,Cash,Female,Morning
+143,5,Frankie,Fastfood,8,8,64,Online,Female,Afternoon
+144,5,Panipuri,Fastfood,3,10,30,Cash,Female,Morning
+145,5,Sandwich,Fastfood,10,14,140,Online,Male,Morning
+146,5,Frankie,Fastfood,8,4,32,Online,Female,Afternoon
+147,5,Panipuri,Fastfood,3,7,21,Online,Male,Morning
+148,5,Sandwich,Fastfood,10,13,130,Online,Male,Morning
+149,5,Sandwich,Fastfood,10,7,70,Online,Male,Morning
+18,5,Cold coffee,Beverages,6,14,84,Cash,Male,Afternoon
+151,5,Frankie,Fastfood,8,13,104,Online,Female,Morning
+152,5,Cold coffee,Beverages,6,9,54,Online,Male,Afternoon
+153,5,Panipuri,Fastfood,3,1,3,Cash,Female,Morning
+154,5,Vadapav,Fastfood,3,3,9,Cash,Male,Night
+155,5,Sugarcane juice,Beverages,4,10,40,Cash,Female,Morning
+156,5,Panipuri,Fastfood,3,14,42,Cash,Male,Evening
+157,5,Frankie,Fastfood,8,7,56,Online,Female,Evening
+158,5,Aalopuri,Fastfood,3,2,6,Online,Male,Evening
+159,5,Sugarcane juice,Beverages,4,1,4,Online,Female,Afternoon
+110,5,Vadapav,Fastfood,3,10,30,Online,Male,Night
+161,5,Sugarcane juice,Beverages,4,12,48,Cash,Male,Morning
+162,5,Aalopuri,Fastfood,3,11,33,Cash,Male,Evening
+163,5,Frankie,Fastfood,8,6,48,Online,Female,Evening
+164,5,Sugarcane juice,Beverages,4,7,28,Online,Male,Afternoon
+165,5,Sandwich,Fastfood,10,11,110,Cash,Male,Evening
+166,5,Panipuri,Fastfood,3,6,18,Cash,Female,Morning
+167,5,Cold coffee,Beverages,6,6,36,Cash,Female,Morning
+168,5,Sandwich,Fastfood,10,4,40,Cash,Female,Evening
+169,5,Vadapav,Fastfood,3,6,18,Cash,Male,Morning
+170,5,Aalopuri,Fastfood,3,6,18,Online,Female,Afternoon
+171,5,Vadapav,Fastfood,3,11,33,Cash,Female,Evening
+172,5,Sugarcane juice,Beverages,4,6,24,Online,Female,Night
+173,5,Cold coffee,Beverages,6,2,12,Online,Male,Night
+174,5,Aalopuri,Fastfood,3,2,6,Online,Male,Morning
+175,5,Frankie,Fastfood,8,12,96,Cash,Female,Afternoon
+176,5,Panipuri,Fastfood,3,1,3,Cash,Female,Evening
+177,5,Panipuri,Fastfood,3,11,33,Online,Female,Morning
+178,5,Aalopuri,Fastfood,3,2,6,Cash,Female,Morning
+179,5,Sugarcane juice,Beverages,4,5,20,Online,Female,Evening
+180,5,Vadapav,Fastfood,3,6,18,Online,Female,Afternoon
+181,5,Cold coffee,Beverages,6,7,42,Cash,Female,Night
+182,5,Cold coffee,Beverages,6,1,6,Cash,Male,Evening
+183,5,Sugarcane juice,Beverages,4,5,20,Cash,Female,Evening
+184,5,Cold coffee,Beverages,6,8,48,Cash,Male,Night
+185,5,Sugarcane juice,Beverages,4,15,60,Online,Male,Night
+186,5,Frankie,Fastfood,8,2,16,Online,Male,Afternoon
+187,5,Aalopuri,Fastfood,3,15,45,Cash,Female,Morning
+188,5,Panipuri,Fastfood,3,14,42,Cash,Female,Night
+189,5,Vadapav,Fastfood,3,12,36,Online,Male,Afternoon
+190,5,Cold coffee,Beverages,6,1,6,Online,Male,Morning
+191,5,Sugarcane juice,Beverages,4,14,56,Cash,Female,Morning
+192,5,Vadapav,Fastfood,3,2,6,Online,Male,Night
+193,5,Cold coffee,Beverages,6,15,90,Online,Female,Evening
+194,5,Vadapav,Fastfood,3,4,12,Cash,Female,Morning
+195,5,Sandwich,Fastfood,10,4,40,Cash,Female,Night
+196,5,Sandwich,Fastfood,10,3,30,Cash,Male,Morning
+197,5,Panipuri,Fastfood,3,10,30,Cash,Female,Evening
+198,5,Frankie,Fastfood,8,15,120,Cash,Male,Morning
+199,5,Frankie,Fastfood,8,6,48,Online,Female,Morning
+200,5,Cold coffee,Beverages,6,10,60,Cash,Female,Morning
+201,5,Panipuri,Fastfood,3,8,24,Cash,Male,Morning
+202,5,Aalopuri,Fastfood,3,9,27,Cash,Male,Afternoon
+203,5,Vadapav,Fastfood,3,6,18,Online,Female,Evening
+204,5,Cold coffee,Beverages,6,7,42,Cash,Female,Morning
+205,5,Vadapav,Fastfood,3,4,12,Online,Male,Afternoon
+206,5,Aalopuri,Fastfood,3,4,12,Cash,Male,Night
+207,5,Cold coffee,Beverages,6,8,48,Online,Female,Morning
+208,5,Cold coffee,Beverages,6,13,78,Cash,Female,Evening
+209,5,Aalopuri,Fastfood,3,2,6,Cash,Male,Night
+210,5,Sugarcane juice,Beverages,4,15,60,Online,Male,Night
+211,5,Aalopuri,Fastfood,3,12,36,Cash,Male,Morning
+212,5,Cold coffee,Beverages,6,12,72,Online,Female,Morning
+213,5,Vadapav,Fastfood,3,3,9,Online,Female,Evening
+214,5,Sugarcane juice,Beverages,4,14,56,Online,Male,Morning
+215,5,Sugarcane juice,Beverages,4,7,28,Online,Female,Morning
+216,5,Panipuri,Fastfood,3,9,27,Cash,Female,Afternoon
+217,5,Cold coffee,Beverages,6,10,60,Cash,Male,Morning
+218,5,Cold coffee,Beverages,6,13,78,Online,Female,Evening
+219,5,Aalopuri,Fastfood,3,9,27,Cash,Female,Morning
+220,5,Sugarcane juice,Beverages,4,1,4,Cash,Male,Afternoon
+221,5,Sandwich,Fastfood,10,1,10,Online,Male,Morning
+222,5,Sandwich,Fastfood,10,6,60,Cash,Female,Morning
+223,5,Panipuri,Fastfood,3,13,39,Online,Male,Night
+224,5,Sugarcane juice,Beverages,4,14,56,Cash,Male,Afternoon
+225,5,Frankie,Fastfood,8,11,88,Cash,Female,Morning
+226,5,Aalopuri,Fastfood,3,13,39,Online,Female,Afternoon
+227,5,Cold coffee,Beverages,6,5,30,Cash,Female,Afternoon
+228,5,Panipuri,Fastfood,3,8,24,Online,Male,Night
+229,5,Panipuri,Fastfood,3,7,21,Online,Male,Morning
+230,5,Frankie,Fastfood,8,6,48,Online,Male,Afternoon
+231,5,Sugarcane juice,Beverages,4,3,12,Online,Male,Night
+232,5,Vadapav,Fastfood,3,13,39,Cash,Female,Night
+233,5,Panipuri,Fastfood,3,5,15,Cash,Male,Morning
+234,5,Panipuri,Fastfood,3,10,30,Cash,Male,Evening
+235,5,Sandwich,Fastfood,10,10,100,Cash,Female,Afternoon
+236,5,Vadapav,Fastfood,3,12,36,Online,Female,Morning
+237,5,Panipuri,Fastfood,3,13,39,Cash,Female,Evening
+238,5,Vadapav,Fastfood,3,13,39,Cash,Male,Morning
+239,5,Frankie,Fastfood,8,4,32,Online,Male,Morning
+26,5,Sandwich,Fastfood,10,10,100,Cash,Female,Morning
+241,5,Sugarcane juice,Beverages,4,2,8,Cash,Male,Afternoon
+242,5,Cold coffee,Beverages,6,4,24,Online,Female,Evening
+243,5,Panipuri,Fastfood,3,5,15,Cash,Female,Evening
+244,5,Sandwich,Fastfood,10,10,100,Online,Female,Evening
+245,5,Vadapav,Fastfood,3,2,6,Cash,Female,Morning
+246,5,Vadapav,Fastfood,3,10,30,Cash,Male,Afternoon
+247,5,Sugarcane juice,Beverages,4,6,24,Online,Male,Evening
+248,5,Frankie,Fastfood,8,5,40,Online,Female,Evening
+249,6,Sugarcane juice,Beverages,4,3,12,Online,Female,Afternoon
+28,6,Sugarcane juice,Beverages,4,6,24,Online,Female,Evening
+251,6,Cold coffee,Beverages,6,13,78,Online,Female,Afternoon
+252,6,Vadapav,Fastfood,3,8,24,Online,Male,Evening
+253,6,Sugarcane juice,Beverages,4,13,52,Online,Male,Afternoon
+254,6,Cold coffee,Beverages,6,12,72,Online,Female,Afternoon
+255,6,Vadapav,Fastfood,3,7,21,Online,Female,Afternoon
+256,6,Aalopuri,Fastfood,3,3,9,Online,Female,Evening
+257,6,Sandwich,Fastfood,10,10,100,Cash,Female,Evening
+258,6,Vadapav,Fastfood,3,14,42,Cash,Male,Evening
+259,6,Sandwich,Fastfood,10,4,40,Online,Male,Morning
+210,6,Sugarcane juice,Beverages,4,2,8,Online,Female,Night
+261,6,Frankie,Fastfood,8,9,72,Cash,Female,Evening
+262,6,Vadapav,Fastfood,3,5,15,Online,Female,Morning
+263,6,Panipuri,Fastfood,3,2,6,Cash,Male,Morning
+264,6,Sugarcane juice,Beverages,4,12,48,Online,Male,Morning
+265,6,Vadapav,Fastfood,3,6,18,Cash,Male,Evening
+266,6,Frankie,Fastfood,8,10,80,Online,Female,Night
+267,6,Vadapav,Fastfood,3,1,3,Cash,Male,Morning
+268,6,Cold coffee,Beverages,6,12,72,Cash,Female,Evening
+269,6,Panipuri,Fastfood,3,2,6,Online,Female,Evening
+270,6,Sandwich,Fastfood,10,13,130,Cash,Male,Morning
+271,6,Vadapav,Fastfood,3,13,39,Cash,Male,Morning
+272,6,Frankie,Fastfood,8,5,40,Online,Female,Night
+273,6,Panipuri,Fastfood,3,15,45,Cash,Male,Evening
+274,6,Sugarcane juice,Beverages,4,10,40,Online,Male,Night
+275,6,Vadapav,Fastfood,3,15,45,Online,Male,Night
+276,6,Sugarcane juice,Beverages,4,6,24,Cash,Male,Evening
+277,6,Cold coffee,Beverages,6,13,78,Cash,Female,Evening
+278,6,Frankie,Fastfood,8,6,48,Online,Female,Night
+279,6,Vadapav,Fastfood,3,15,45,Cash,Female,Afternoon
+280,6,Panipuri,Fastfood,3,14,42,Online,Female,Morning
+281,6,Sandwich,Fastfood,10,3,30,Cash,Female,Afternoon
+282,6,Vadapav,Fastfood,3,13,39,Online,Female,Morning
+283,6,Panipuri,Fastfood,3,2,6,Cash,Female,Evening
+284,6,Frankie,Fastfood,8,7,56,Online,Male,Afternoon
+285,6,Aalopuri,Fastfood,3,3,9,Online,Male,Night
+286,6,Vadapav,Fastfood,3,6,18,Online,Male,Night
+287,6,Aalopuri,Fastfood,3,3,9,Cash,Male,Morning
+288,6,Sandwich,Fastfood,10,7,70,Cash,Male,Night
+289,6,Aalopuri,Fastfood,3,7,21,Online,Female,Evening
+290,6,Panipuri,Fastfood,3,7,21,Cash,Female,Morning
+291,6,Frankie,Fastfood,8,8,64,Online,Female,Night
+292,6,Frankie,Fastfood,8,2,16,Cash,Female,Evening
+293,6,Panipuri,Fastfood,3,8,24,Online,Female,Morning
+294,6,Aalopuri,Fastfood,3,1,3,Cash,Female,Morning
+295,6,Sandwich,Fastfood,10,7,70,Cash,Male,Evening
+296,6,Panipuri,Fastfood,3,7,21,Cash,Female,Afternoon
+297,6,Sandwich,Fastfood,10,10,100,Online,Male,Morning
+298,6,Sugarcane juice,Beverages,4,9,36,Cash,Female,Afternoon
+299,6,Aalopuri,Fastfood,3,1,3,Online,Female,Morning
+300,6,Aalopuri,Fastfood,3,8,24,Cash,Male,Afternoon
+301,6,Panipuri,Fastfood,3,7,21,Cash,Male,Night
+302,6,Aalopuri,Fastfood,3,14,42,Cash,Male,Night
+303,6,Sugarcane juice,Beverages,4,1,4,Cash,Female,Evening
+304,6,Vadapav,Fastfood,3,15,45,Online,Male,Morning
+305,6,Panipuri,Fastfood,3,4,12,Online,Female,Morning
+306,6,Cold coffee,Beverages,6,8,48,Online,Female,Morning
+307,6,Vadapav,Fastfood,3,8,24,Cash,Male,Morning
+308,6,Sandwich,Fastfood,10,13,130,Online,Male,Morning
+309,6,Sandwich,Fastfood,10,8,80,Online,Male,Morning
+310,6,Vadapav,Fastfood,3,4,12,Cash,Male,Afternoon
+311,6,Frankie,Fastfood,8,7,56,Online,Female,Morning
+312,6,Cold coffee,Beverages,6,1,6,Cash,Female,Night
+313,6,Cold coffee,Beverages,6,1,6,Cash,Male,Evening
+314,6,Frankie,Fastfood,8,8,64,Online,Female,Morning
+315,6,Cold coffee,Beverages,6,13,78,Online,Female,Afternoon
+316,6,Frankie,Fastfood,8,4,32,Online,Male,Morning
+317,6,Aalopuri,Fastfood,3,12,36,Online,Female,Afternoon
+318,6,Aalopuri,Fastfood,3,10,30,Online,Female,Evening
+319,6,Frankie,Fastfood,8,15,120,Cash,Male,Afternoon
+320,6,Sugarcane juice,Beverages,4,7,28,Cash,Female,Afternoon
+321,6,Frankie,Fastfood,8,12,96,Cash,Female,Morning
+322,6,Cold coffee,Beverages,6,11,66,Cash,Male,Morning
+323,6,Aalopuri,Fastfood,3,4,12,Cash,Male,Morning
+324,6,Sugarcane juice,Beverages,4,15,60,Online,Female,Night
+325,6,Aalopuri,Fastfood,3,12,36,Online,Female,Afternoon
+326,6,Sandwich,Fastfood,10,8,80,Cash,Male,Morning
+327,6,Frankie,Fastfood,8,15,120,Cash,Female,Evening
+328,6,Vadapav,Fastfood,3,3,9,Online,Male,Morning
+329,6,Panipuri,Fastfood,3,7,21,Online,Female,Afternoon
+330,6,Panipuri,Fastfood,3,8,24,Online,Male,Morning
+331,6,Panipuri,Fastfood,3,4,12,Online,Female,Morning
+332,6,Aalopuri,Fastfood,3,2,6,Online,Female,Afternoon
+333,6,Sugarcane juice,Beverages,4,11,44,Cash,Female,Afternoon
+334,6,Cold coffee,Beverages,6,4,24,Cash,Female,Morning
+335,6,Cold coffee,Beverages,6,11,66,Cash,Male,Night
+336,6,Sugarcane juice,Beverages,4,13,52,Online,Female,Evening
+337,6,Aalopuri,Fastfood,3,14,42,Online,Female,Evening
+338,6,Sugarcane juice,Beverages,4,12,48,Cash,Male,Morning
+339,6,Sugarcane juice,Beverages,4,1,4,Online,Female,Evening
+36,6,Cold coffee,Beverages,6,4,24,Cash,Female,Morning
+341,6,Frankie,Fastfood,8,9,72,Cash,Female,Morning
+342,6,Vadapav,Fastfood,3,7,21,Online,Male,Afternoon
+343,6,Sugarcane juice,Beverages,4,5,20,Cash,Male,Afternoon
+344,6,Cold coffee,Beverages,6,14,84,Cash,Male,Night
+345,6,Panipuri,Fastfood,3,14,42,Online,Female,Night
+346,6,Cold coffee,Beverages,6,12,72,Cash,Male,Morning
+347,6,Frankie,Fastfood,8,7,56,Cash,Female,Afternoon
+348,6,Vadapav,Fastfood,3,1,3,Online,Female,Evening
+349,6,Panipuri,Fastfood,3,5,15,Cash,Female,Morning
+38,6,Cold coffee,Beverages,6,8,48,Online,Female,Morning
+351,6,Frankie,Fastfood,8,5,40,Online,Female,Night
+352,6,Frankie,Fastfood,8,11,88,Cash,Female,Night
+353,6,Vadapav,Fastfood,3,4,12,Online,Female,Evening
+354,6,Panipuri,Fastfood,3,14,42,Online,Male,Evening
+355,6,Cold coffee,Beverages,6,4,24,Online,Male,Evening
+356,6,Sugarcane juice,Beverages,4,14,56,Cash,Female,Night
+357,6,Sandwich,Fastfood,10,9,90,Online,Female,Afternoon
+358,6,Aalopuri,Fastfood,3,6,18,Cash,Male,Night
+359,6,Aalopuri,Fastfood,3,13,39,Online,Female,Night
+310,6,Cold coffee,Beverages,6,2,12,Online,Female,Evening
+361,6,Sandwich,Fastfood,10,15,150,Online,Female,Night
+362,6,Sugarcane juice,Beverages,4,2,8,Cash,Male,Morning
+363,6,Frankie,Fastfood,8,9,72,Online,Male,Afternoon
+364,6,Cold coffee,Beverages,6,2,12,Online,Male,Night
+365,6,Panipuri,Fastfood,3,10,30,Online,Male,Night
+366,6,Sugarcane juice,Beverages,4,10,40,Online,Female,Afternoon
+367,6,Panipuri,Fastfood,3,6,18,Online,Male,Afternoon
+368,6,Cold coffee,Beverages,6,2,12,Cash,Male,Night
+369,6,Sandwich,Fastfood,10,2,20,Online,Female,Morning
+370,6,Panipuri,Fastfood,3,5,15,Online,Female,Evening
+371,6,Vadapav,Fastfood,3,5,15,Online,Female,Night
+372,6,Frankie,Fastfood,8,12,96,Online,Male,Morning
+373,6,Sugarcane juice,Beverages,4,12,48,Cash,Female,Evening
+374,6,Frankie,Fastfood,8,10,80,Online,Male,Evening
+375,6,Panipuri,Fastfood,3,13,39,Cash,Male,Morning
+376,6,Frankie,Fastfood,8,15,120,Cash,Male,Evening
+377,6,Sugarcane juice,Beverages,4,3,12,Online,Female,Morning
+378,6,Vadapav,Fastfood,3,2,6,Cash,Female,Evening
+379,6,Cold coffee,Beverages,6,14,84,Online,Male,Afternoon
+380,6,Sandwich,Fastfood,10,5,50,Online,Female,Afternoon
+381,6,Vadapav,Fastfood,3,1,3,Online,Male,Morning
+382,6,Cold coffee,Beverages,6,9,54,Cash,Female,Night
+383,6,Aalopuri,Fastfood,3,7,21,Online,Female,Morning
+384,6,Sugarcane juice,Beverages,4,1,4,Online,Male,Afternoon
+385,6,Vadapav,Fastfood,3,5,15,Cash,Male,Morning
+386,6,Frankie,Fastfood,8,5,40,Online,Male,Evening
+387,6,Sugarcane juice,Beverages,4,14,56,Cash,Female,Evening
+388,6,Sandwich,Fastfood,10,14,140,Cash,Male,Morning
+389,6,Sandwich,Fastfood,10,12,120,Cash,Female,Morning
+390,6,Sugarcane juice,Beverages,4,5,20,Online,Male,Evening
+391,6,Aalopuri,Fastfood,3,1,3,Online,Female,Night
+392,6,Aalopuri,Fastfood,3,15,45,Online,Male,Night
+393,6,Sugarcane juice,Beverages,4,10,40,Online,Female,Morning
+394,6,Sandwich,Fastfood,10,1,10,Cash,Female,Morning
+395,6,Sandwich,Fastfood,10,3,30,Cash,Female,Morning
+396,6,Frankie,Fastfood,8,15,120,Online,Male,Morning
+397,6,Aalopuri,Fastfood,3,2,6,Online,Female,Afternoon
+398,6,Panipuri,Fastfood,3,6,18,Online,Male,Morning
+399,6,Panipuri,Fastfood,3,9,27,Cash,Female,Morning
+60,6,Cold coffee,Beverages,6,15,90,Cash,Female,Morning
+61,6,Sugarcane juice,Beverages,4,8,32,Online,Female,Evening
+62,6,Frankie,Fastfood,8,7,56,Cash,Male,Night
+63,6,Cold coffee,Beverages,6,3,18,Online,Female,Evening
+64,6,Frankie,Fastfood,8,7,56,Cash,Female,Evening
+65,6,Sugarcane juice,Beverages,4,10,40,Cash,Male,Night
+66,6,Cold coffee,Beverages,6,4,24,Online,Female,Afternoon
+67,6,Sugarcane juice,Beverages,4,2,8,Cash,Male,Morning
+68,6,Vadapav,Fastfood,3,4,12,Online,Male,Evening
+69,6,Aalopuri,Fastfood,3,9,27,Cash,Female,Morning
+410,6,Aalopuri,Fastfood,3,15,45,Online,Male,Afternoon
+411,6,Panipuri,Fastfood,3,12,36,Cash,Male,Afternoon
+412,6,Sugarcane juice,Beverages,4,14,56,Online,Male,Afternoon
+413,6,Aalopuri,Fastfood,3,10,30,Online,Female,Evening
+414,6,Cold coffee,Beverages,6,13,78,Online,Male,Night
+415,6,Vadapav,Fastfood,3,8,24,Online,Male,Morning
+416,6,Sandwich,Fastfood,10,9,90,Online,Male,Morning
+417,6,Panipuri,Fastfood,3,3,9,Cash,Male,Morning
+418,6,Cold coffee,Beverages,6,7,42,Online,Male,Night
+419,6,Sugarcane juice,Beverages,4,14,56,Online,Female,Evening
+420,6,Frankie,Fastfood,8,13,104,Online,Female,Morning
+421,6,Cold coffee,Beverages,6,2,12,Online,Male,Evening
+422,6,Cold coffee,Beverages,6,7,42,Online,Male,Morning
+423,6,Frankie,Fastfood,8,7,56,Cash,Female,Night
+424,6,Sugarcane juice,Beverages,4,9,36,Online,Female,Evening
+425,6,Panipuri,Fastfood,3,14,42,Online,Male,Afternoon
+426,6,Frankie,Fastfood,8,14,112,Cash,Male,Evening
+427,6,Sandwich,Fastfood,10,2,20,Online,Male,Afternoon
+428,6,Sugarcane juice,Beverages,4,8,32,Online,Male,Afternoon
+429,6,Cold coffee,Beverages,6,3,18,Online,Male,Night
+430,6,Sandwich,Fastfood,10,4,40,Online,Male,Night
+431,6,Panipuri,Fastfood,3,6,18,Online,Male,Morning
+432,6,Panipuri,Fastfood,3,6,18,Online,Male,Afternoon
+433,6,Panipuri,Fastfood,3,14,42,Online,Female,Morning
+434,6,Aalopuri,Fastfood,3,12,36,Cash,Male,Morning
+435,6,Sandwich,Fastfood,10,1,10,Cash,Female,Afternoon
+436,6,Frankie,Fastfood,8,10,80,Cash,Male,Evening
+437,6,Cold coffee,Beverages,6,1,6,Online,Male,Morning
+438,6,Cold coffee,Beverages,6,5,30,Online,Male,Morning
+439,6,Frankie,Fastfood,8,13,104,Online,Male,Afternoon
+46,6,Aalopuri,Fastfood,3,7,21,Cash,Male,Afternoon
+441,6,Aalopuri,Fastfood,3,1,3,Online,Female,Evening
+442,6,Sugarcane juice,Beverages,4,7,28,Online,Female,Night
+443,6,Sugarcane juice,Beverages,4,12,48,Cash,Female,Night
+444,6,Frankie,Fastfood,8,4,32,Online,Male,Morning
+445,6,Sandwich,Fastfood,10,14,140,Online,Female,Morning
+446,6,Cold coffee,Beverages,6,9,54,Cash,Male,Night
+447,6,Frankie,Fastfood,8,6,48,Online,Female,Afternoon
+448,6,Vadapav,Fastfood,3,6,18,Cash,Female,Morning
+449,6,Frankie,Fastfood,8,4,32,Cash,Male,Afternoon
+48,6,Sugarcane juice,Beverages,4,1,4,Online,Male,Morning
+451,6,Sugarcane juice,Beverages,4,10,40,Cash,Female,Evening
+452,6,Frankie,Fastfood,8,5,40,Online,Male,Afternoon
+453,6,Sandwich,Fastfood,10,1,10,Online,Female,Evening
+454,6,Sandwich,Fastfood,10,1,10,Online,Female,Morning
+455,6,Cold coffee,Beverages,6,11,66,Cash,Male,Evening
+456,6,Cold coffee,Beverages,6,13,78,Online,Female,Night
+457,6,Cold coffee,Beverages,6,11,66,Cash,Male,Morning
+458,6,Sugarcane juice,Beverages,4,8,32,Cash,Female,Evening
+459,6,Vadapav,Fastfood,3,14,42,Cash,Male,Night
+410,6,Aalopuri,Fastfood,3,2,6,Cash,Male,Morning
+461,6,Sugarcane juice,Beverages,4,5,20,Cash,Male,Evening
+462,6,Vadapav,Fastfood,3,3,9,Cash,Male,Morning
+463,6,Sandwich,Fastfood,10,6,60,Online,Male,Evening
+464,6,Sugarcane juice,Beverages,4,13,52,Cash,Male,Morning
+465,6,Sugarcane juice,Beverages,4,12,48,Online,Male,Morning
+466,6,Panipuri,Fastfood,3,6,18,Cash,Male,Morning
+467,6,Aalopuri,Fastfood,3,11,33,Online,Male,Morning
+468,6,Panipuri,Fastfood,3,2,6,Cash,Male,Morning
+469,6,Sandwich,Fastfood,10,7,70,Online,Female,Morning
+470,6,Vadapav,Fastfood,3,8,24,Cash,Female,Morning
+471,6,Panipuri,Fastfood,3,7,21,Cash,Female,Afternoon
+472,6,Panipuri,Fastfood,3,10,30,Online,Male,Evening
+473,6,Sandwich,Fastfood,10,5,50,Cash,Female,Morning
+474,6,Sugarcane juice,Beverages,4,15,60,Cash,Female,Night
+475,11,Cold coffee,Beverages,6,6,36,Cash,Female,Night
+476,11,Aalopuri,Fastfood,3,10,30,Cash,Male,Morning
+477,11,Sandwich,Fastfood,10,15,150,Cash,Female,Evening
+478,11,Sugarcane juice,Beverages,4,9,36,Cash,Female,Afternoon
+479,11,Sandwich,Fastfood,10,11,110,Cash,Female,Afternoon
+480,11,Vadapav,Fastfood,3,12,36,Cash,Male,Morning
+481,11,Sugarcane juice,Beverages,4,4,16,Cash,Male,Morning
+482,11,Aalopuri,Fastfood,3,1,3,Online,Male,Afternoon
+483,11,Panipuri,Fastfood,3,9,27,Cash,Female,Morning
+484,11,Cold coffee,Beverages,6,5,30,Cash,Female,Afternoon
+485,11,Aalopuri,Fastfood,3,6,18,Cash,Female,Evening
+486,11,Vadapav,Fastfood,3,6,18,Cash,Female,Evening
+487,11,Sandwich,Fastfood,10,9,90,Cash,Female,Evening
+488,11,Cold coffee,Beverages,6,10,60,Cash,Male,Evening
+489,11,Frankie,Fastfood,8,13,104,Online,Female,Morning
+490,11,Cold coffee,Beverages,6,8,48,Cash,Male,Morning
+491,11,Vadapav,Fastfood,3,2,6,Online,Female,Evening
+492,11,Sandwich,Fastfood,10,15,150,Cash,Male,Afternoon
+493,11,Cold coffee,Beverages,6,2,12,Online,Male,Morning
+494,11,Cold coffee,Beverages,6,10,60,Cash,Female,Night
+495,11,Aalopuri,Fastfood,3,13,39,Online,Female,Evening
+496,11,Cold coffee,Beverages,6,10,60,Online,Female,Night
+497,11,Sandwich,Fastfood,10,7,70,Cash,Male,Evening
+498,11,Frankie,Fastfood,8,1,8,Cash,Male,Evening
+499,11,Sandwich,Fastfood,10,8,80,Online,Female,Morning
+80,11,Vadapav,Fastfood,3,4,12,Online,Female,Evening
+81,11,Sugarcane juice,Beverages,4,14,56,Online,Female,Afternoon
+82,12,Panipuri,Fastfood,3,13,39,Online,Male,Night
+83,12,Aalopuri,Fastfood,3,13,39,Cash,Female,Morning
+84,12,Cold coffee,Beverages,6,8,48,Cash,Male,Morning
+85,12,Frankie,Fastfood,8,4,32,Cash,Male,Night
+86,12,Cold coffee,Beverages,6,12,72,Cash,Female,Evening
+87,12,Aalopuri,Fastfood,3,14,42,Online,Female,Morning
+88,12,Sandwich,Fastfood,10,1,10,Cash,Male,Night
+89,12,Vadapav,Fastfood,3,11,33,Online,Male,Morning
+510,12,Sandwich,Fastfood,10,14,140,Online,Male,Afternoon
+511,12,Panipuri,Fastfood,3,4,12,Cash,Female,Night
+512,12,Panipuri,Fastfood,3,3,9,Cash,Female,Afternoon
+513,12,Cold coffee,Beverages,6,5,30,Cash,Female,Night
+514,12,Cold coffee,Beverages,6,8,48,Online,Female,Morning
+515,12,Sandwich,Fastfood,10,7,70,Online,Female,Night
+516,12,Sugarcane juice,Beverages,4,12,48,Online,Female,Evening
+517,12,Panipuri,Fastfood,3,13,39,Online,Male,Morning
+518,12,Aalopuri,Fastfood,3,6,18,Cash,Female,Morning
+519,12,Cold coffee,Beverages,6,10,60,Cash,Male,Morning
+520,12,Panipuri,Fastfood,3,11,33,Online,Female,Night
+521,12,Panipuri,Fastfood,3,14,42,Online,Male,Morning
+522,12,Panipuri,Fastfood,3,13,39,Cash,Female,Evening
+523,12,Frankie,Fastfood,8,6,48,Cash,Male,Afternoon
+524,12,Aalopuri,Fastfood,3,13,39,Online,Male,Afternoon
+525,12,Vadapav,Fastfood,3,3,9,Cash,Male,Evening
+526,12,Sandwich,Fastfood,10,10,100,Cash,Female,Morning
+527,12,Sugarcane juice,Beverages,4,6,24,Cash,Female,Afternoon
+528,12,Sugarcane juice,Beverages,4,7,28,Cash,Female,Evening
+529,12,Aalopuri,Fastfood,3,12,36,Online,Female,Afternoon
+530,12,Panipuri,Fastfood,3,6,18,Cash,Female,Night
+531,12,Cold coffee,Beverages,6,10,60,Cash,Male,Night
+532,12,Panipuri,Fastfood,3,13,39,Online,Female,Evening
+533,12,Frankie,Fastfood,8,2,16,Online,Female,Night
+534,5,Vadapav,Fastfood,3,2,6,Online,Female,Night
+535,5,Sandwich,Fastfood,10,4,40,Online,Male,Evening
+536,5,Sugarcane juice,Beverages,4,7,28,Cash,Female,Morning
+537,5,Panipuri,Fastfood,3,3,9,Cash,Male,Morning
+538,5,Panipuri,Fastfood,3,7,21,Online,Male,Morning
+539,5,Panipuri,Fastfood,3,3,9,Online,Male,Morning
+56,5,Vadapav,Fastfood,3,13,39,Cash,Male,Afternoon
+541,5,Panipuri,Fastfood,3,12,36,Cash,Male,Night
+542,5,Sugarcane juice,Beverages,4,9,36,Cash,Male,Morning
+543,5,Aalopuri,Fastfood,3,15,45,Cash,Female,Morning
+544,5,Sandwich,Fastfood,10,15,150,Online,Female,Morning
+545,5,Sandwich,Fastfood,10,13,130,Online,Female,Evening
+546,5,Aalopuri,Fastfood,3,1,3,Cash,Female,Evening
+547,5,Cold coffee,Beverages,6,10,60,Online,Male,Morning
+548,5,Cold coffee,Beverages,6,14,84,Cash,Male,Afternoon
+549,5,Sugarcane juice,Beverages,4,3,12,Online,Male,Afternoon
+58,5,Cold coffee,Beverages,6,15,90,Online,Male,Afternoon
+551,5,Sugarcane juice,Beverages,4,7,28,Cash,Male,Morning
+552,10,Sugarcane juice,Beverages,4,15,60,Cash,Female,Evening
+553,10,Panipuri,Fastfood,3,14,42,Cash,Male,Morning
+554,10,Panipuri,Fastfood,3,4,12,Cash,Female,Afternoon
+555,10,Sandwich,Fastfood,10,6,60,Cash,Female,Morning
+556,10,Vadapav,Fastfood,3,9,27,Cash,Female,Night
+557,10,Sandwich,Fastfood,10,2,20,Cash,Female,Morning
+558,10,Panipuri,Fastfood,3,5,15,Online,Male,Morning
+559,10,Cold coffee,Beverages,6,5,30,Online,Female,Night
+510,10,Sugarcane juice,Beverages,4,1,4,Cash,Male,Morning
+561,10,Panipuri,Fastfood,3,1,3,Cash,Female,Evening
+562,10,Frankie,Fastfood,8,4,32,Cash,Male,Afternoon
+563,10,Frankie,Fastfood,8,7,56,Online,Female,Morning
+564,10,Cold coffee,Beverages,6,2,12,Online,Male,Morning
+565,10,Panipuri,Fastfood,3,15,45,Cash,Male,Morning
+566,10,Frankie,Fastfood,8,3,24,Cash,Male,Morning
+567,10,Cold coffee,Beverages,6,7,42,Online,Female,Afternoon
+568,10,Panipuri,Fastfood,3,12,36,Online,Female,Afternoon
+569,10,Cold coffee,Beverages,6,15,90,Online,Female,Evening
+570,10,Sugarcane juice,Beverages,4,4,16,Cash,Male,Morning
+571,10,Sugarcane juice,Beverages,4,1,4,Cash,Female,Morning
+572,10,Sandwich,Fastfood,10,15,150,Cash,Male,Afternoon
+573,10,Frankie,Fastfood,8,2,16,Cash,Male,Afternoon
+574,10,Aalopuri,Fastfood,3,1,3,Cash,Female,Night
+575,10,Vadapav,Fastfood,3,1,3,Online,Female,Evening
+576,10,Panipuri,Fastfood,3,12,36,Cash,Female,Afternoon
+577,10,Cold coffee,Beverages,6,7,42,Cash,Male,Morning
+578,10,Frankie,Fastfood,8,5,40,Online,Female,Night
+579,10,Panipuri,Fastfood,3,2,6,Cash,Male,Morning
+580,10,Panipuri,Fastfood,3,10,30,Online,Male,Night
+581,10,Sugarcane juice,Beverages,4,13,52,Cash,Male,Afternoon
+582,10,Aalopuri,Fastfood,3,13,39,Cash,Male,Morning
+583,10,Frankie,Fastfood,8,8,64,Cash,Male,Night
+584,10,Cold coffee,Beverages,6,15,90,Cash,Male,Morning
+585,10,Vadapav,Fastfood,3,11,33,Cash,Female,Morning
+586,10,Sandwich,Fastfood,10,15,150,Online,Male,Night
+587,10,Aalopuri,Fastfood,3,10,30,Cash,Female,Night
+588,10,Frankie,Fastfood,8,11,88,Cash,Female,Morning
+589,10,Cold coffee,Beverages,6,5,30,Cash,Male,Night
+590,10,Panipuri,Fastfood,3,15,45,Online,Male,Evening
+591,10,Sandwich,Fastfood,10,13,130,Cash,Female,Morning
+592,10,Sugarcane juice,Beverages,4,7,28,Cash,Male,Morning
+593,10,Sugarcane juice,Beverages,4,9,36,Cash,Female,Morning
+594,10,Frankie,Fastfood,8,6,48,Cash,Female,Morning
+595,10,Frankie,Fastfood,8,9,72,Online,Male,Afternoon
+596,10,Cold coffee,Beverages,6,1,6,Online,Female,Night
+597,10,Panipuri,Fastfood,3,10,30,Online,Male,Evening
+598,10,Cold coffee,Beverages,6,8,48,Cash,Female,Afternoon
+599,10,Frankie,Fastfood,8,13,104,Cash,Male,Morning
+100,10,Panipuri,Fastfood,3,6,18,Cash,Female,Morning
+101,4,Aalopuri,Fastfood,3,12,36,Online,Male,Morning
+102,4,Aalopuri,Fastfood,3,10,30,Cash,Male,Night
+103,4,Vadapav,Fastfood,3,10,30,Cash,Female,Afternoon
+104,4,Frankie,Fastfood,8,10,80,Cash,Female,Night
+105,4,Cold coffee,Beverages,6,15,90,Online,Female,Afternoon
+106,4,Cold coffee,Beverages,6,6,36,Cash,Female,Night
+107,4,Vadapav,Fastfood,3,9,27,Cash,Female,Afternoon
+108,4,Aalopuri,Fastfood,3,1,3,Online,Male,Evening
+109,4,Aalopuri,Fastfood,3,14,42,Online,Male,Evening
+610,4,Frankie,Fastfood,8,13,104,Online,Female,Morning
+611,4,Aalopuri,Fastfood,3,2,6,Online,Female,Morning
+612,4,Aalopuri,Fastfood,3,3,9,Online,Male,Evening
+613,4,Vadapav,Fastfood,3,5,15,Online,Female,Night
+614,4,Vadapav,Fastfood,3,2,6,Online,Male,Morning
+615,4,Sandwich,Fastfood,10,14,140,Online,Male,Morning
+616,4,Vadapav,Fastfood,3,6,18,Online,Female,Evening
+617,4,Sugarcane juice,Beverages,4,2,8,Cash,Male,Night
+618,4,Frankie,Fastfood,8,1,8,Online,Male,Morning
+619,4,Sugarcane juice,Beverages,4,4,16,Cash,Female,Morning
+620,4,Panipuri,Fastfood,3,12,36,Online,Female,Morning
+621,4,Aalopuri,Fastfood,3,2,6,Online,Female,Morning
+622,4,Panipuri,Fastfood,3,13,39,Online,Male,Afternoon
+623,4,Cold coffee,Beverages,6,15,90,Cash,Male,Evening
+624,4,Sandwich,Fastfood,10,9,90,Cash,Female,Morning
+625,4,Sandwich,Fastfood,10,15,150,Online,Male,Morning
+626,4,Cold coffee,Beverages,6,15,90,Cash,Male,Night
+627,4,Sugarcane juice,Beverages,4,15,60,Online,Male,Afternoon
+628,4,Cold coffee,Beverages,6,10,60,Online,Female,Night
+629,4,Sugarcane juice,Beverages,4,9,36,Cash,Female,Morning
+630,4,Frankie,Fastfood,8,7,56,Online,Female,Morning
+631,4,Cold coffee,Beverages,6,13,78,Cash,Female,Morning
+632,4,Panipuri,Fastfood,3,9,27,Online,Female,Night
+633,4,Cold coffee,Beverages,6,3,18,Online,Male,Morning
+634,4,Panipuri,Fastfood,3,13,39,Cash,Male,Afternoon
+635,4,Vadapav,Fastfood,3,15,45,Online,Female,Night
+636,4,Cold coffee,Beverages,6,12,72,Online,Male,Morning
+637,4,Aalopuri,Fastfood,3,7,21,Cash,Male,Evening
+638,4,Cold coffee,Beverages,6,11,66,Online,Female,Afternoon
+639,4,Vadapav,Fastfood,3,14,42,Cash,Female,Morning
+66,4,Sandwich,Fastfood,10,15,150,Online,Male,Night
+641,4,Vadapav,Fastfood,3,15,45,Cash,Male,Afternoon
+642,4,Cold coffee,Beverages,6,10,60,Online,Female,Morning
+643,4,Sugarcane juice,Beverages,4,2,8,Cash,Male,Afternoon
+644,4,Panipuri,Fastfood,3,5,15,Online,Female,Morning
+645,4,Sandwich,Fastfood,10,9,90,Cash,Female,Night
+646,4,Vadapav,Fastfood,3,14,42,Online,Female,Afternoon
+647,4,Vadapav,Fastfood,3,3,9,Cash,Male,Afternoon
+648,4,Sandwich,Fastfood,10,7,70,Cash,Male,Night
+649,4,Frankie,Fastfood,8,9,72,Cash,Male,Evening
+68,4,Sandwich,Fastfood,10,13,130,Online,Female,Morning
+651,4,Sandwich,Fastfood,10,10,100,Online,Female,Evening
+652,4,Cold coffee,Beverages,6,13,78,Online,Female,Afternoon
+653,4,Frankie,Fastfood,8,10,80,Online,Female,Evening
+654,4,Vadapav,Fastfood,3,9,27,Cash,Female,Morning
+655,4,Sugarcane juice,Beverages,4,12,48,Online,Male,Morning
+656,4,Sandwich,Fastfood,10,6,60,Online,Female,Evening
+657,4,Cold coffee,Beverages,6,7,42,Online,Male,Evening
+658,4,Aalopuri,Fastfood,3,12,36,Online,Female,Afternoon
+659,4,Panipuri,Fastfood,3,2,6,Online,Male,Afternoon
+610,4,Sandwich,Fastfood,10,9,90,Cash,Female,Night
+661,4,Frankie,Fastfood,8,7,56,Online,Female,Evening
+662,4,Panipuri,Fastfood,3,3,9,Online,Female,Afternoon
+663,4,Sugarcane juice,Beverages,4,1,4,Online,Male,Night
+664,4,Frankie,Fastfood,8,10,80,Online,Female,Morning
+665,4,Aalopuri,Fastfood,3,14,42,Online,Female,Morning
+666,4,Panipuri,Fastfood,3,9,27,Cash,Male,Morning
+667,4,Vadapav,Fastfood,3,3,9,Cash,Female,Morning
+668,4,Aalopuri,Fastfood,3,4,12,Online,Male,Morning
+669,4,Sandwich,Fastfood,10,11,110,Online,Male,Morning
+670,4,Panipuri,Fastfood,3,15,45,Cash,Male,Night
+671,4,Sandwich,Fastfood,10,2,20,Online,Male,Afternoon
+672,4,Cold coffee,Beverages,6,3,18,Online,Female,Morning
+673,4,Sandwich,Fastfood,10,12,120,Cash,Male,Evening
+674,4,Sugarcane juice,Beverages,4,13,52,Online,Male,Morning
+675,4,Sandwich,Fastfood,10,12,120,Cash,Male,Night
+676,4,Frankie,Fastfood,8,7,56,Cash,Female,Morning
+677,4,Cold coffee,Beverages,6,3,18,Online,Female,Morning
+678,4,Aalopuri,Fastfood,3,3,9,Online,Male,Morning
+679,4,Sandwich,Fastfood,10,12,120,Online,Male,Morning
+680,4,Cold coffee,Beverages,6,4,24,Cash,Male,Night
+681,4,Frankie,Fastfood,8,9,72,Online,Female,Night
+682,4,Aalopuri,Fastfood,3,14,42,Online,Male,Evening
+683,4,Frankie,Fastfood,8,15,120,Cash,Male,Evening
+684,4,Vadapav,Fastfood,3,5,15,Cash,Male,Afternoon
+685,4,Aalopuri,Fastfood,3,3,9,Cash,Female,Afternoon
+686,4,Cold coffee,Beverages,6,5,30,Cash,Male,Afternoon
+687,4,Vadapav,Fastfood,3,10,30,Cash,Female,Evening
+688,4,Frankie,Fastfood,8,5,40,Online,Male,Afternoon
+689,4,Vadapav,Fastfood,3,6,18,Cash,Female,Afternoon
+690,4,Vadapav,Fastfood,3,9,27,Cash,Female,Night
+691,4,Sandwich,Fastfood,10,7,70,Cash,Female,Morning
+692,4,Frankie,Fastfood,8,14,112,Online,Male,Afternoon
+693,4,Sugarcane juice,Beverages,4,13,52,Online,Female,Evening
+694,4,Panipuri,Fastfood,3,14,42,Cash,Male,Evening
+695,4,Panipuri,Fastfood,3,10,30,Online,Female,Evening
+696,4,Sugarcane juice,Beverages,4,3,12,Online,Female,Morning
+697,4,Sugarcane juice,Beverages,4,5,20,Cash,Male,Evening
+698,4,Panipuri,Fastfood,3,10,30,Online,Male,Night
+699,4,Cold coffee,Beverages,6,1,6,Online,Male,Morning
+700,4,Frankie,Fastfood,8,6,48,Cash,Female,Morning
+701,4,Sugarcane juice,Beverages,4,14,56,Online,Female,Morning
+702,4,Cold coffee,Beverages,6,13,78,Cash,Female,Afternoon
+703,4,Panipuri,Fastfood,3,10,30,Online,Female,Afternoon
+704,4,Sandwich,Fastfood,10,1,10,Online,Female,Morning
+705,4,Sandwich,Fastfood,10,6,60,Online,Male,Morning
+706,4,Frankie,Fastfood,8,8,64,Online,Male,Night
+707,4,Panipuri,Fastfood,3,2,6,Online,Male,Night
+708,4,Sandwich,Fastfood,10,5,50,Cash,Female,Evening
+709,4,Cold coffee,Beverages,6,6,36,Cash,Male,Morning
+710,4,Sandwich,Fastfood,10,15,150,Online,Male,Night
+711,4,Aalopuri,Fastfood,3,3,9,Cash,Male,Afternoon
+712,4,Vadapav,Fastfood,3,3,9,Online,Female,Evening
+713,4,Sugarcane juice,Beverages,4,14,56,Online,Female,Morning
+714,4,Sugarcane juice,Beverages,4,14,56,Cash,Male,Afternoon
+715,4,Sandwich,Fastfood,10,1,10,Online,Male,Morning
+716,4,Panipuri,Fastfood,3,9,27,Cash,Female,Evening
+717,4,Sugarcane juice,Beverages,4,15,60,Online,Female,Morning
+718,4,Aalopuri,Fastfood,3,2,6,Online,Male,Afternoon
+719,4,Vadapav,Fastfood,3,15,45,Cash,Female,Evening
+720,4,Frankie,Fastfood,8,14,112,Cash,Female,Morning
+721,4,Panipuri,Fastfood,3,12,36,Online,Male,Afternoon
+722,4,Vadapav,Fastfood,3,15,45,Online,Male,Evening
+723,4,Cold coffee,Beverages,6,10,60,Online,Male,Morning
+724,4,Frankie,Fastfood,8,10,80,Cash,Female,Night
+725,4,Vadapav,Fastfood,3,6,18,Online,Female,Afternoon
+726,4,Panipuri,Fastfood,3,1,3,Online,Male,Morning
+727,4,Aalopuri,Fastfood,3,5,15,Cash,Female,Evening
+728,4,Vadapav,Fastfood,3,1,3,Online,Male,Evening
+729,4,Sandwich,Fastfood,10,7,70,Cash,Male,Night
+730,4,Frankie,Fastfood,8,13,104,Cash,Female,Afternoon
+731,4,Frankie,Fastfood,8,10,80,Cash,Female,Afternoon
+732,4,Panipuri,Fastfood,3,7,21,Online,Female,Evening
+733,4,Frankie,Fastfood,8,10,80,Cash,Male,Morning
+734,4,Frankie,Fastfood,8,7,56,Cash,Male,Morning
+735,4,Panipuri,Fastfood,3,11,33,Cash,Male,Morning
+736,4,Panipuri,Fastfood,3,13,39,Online,Male,Afternoon
+737,4,Frankie,Fastfood,8,13,104,Online,Female,Night
+738,4,Sandwich,Fastfood,10,4,40,Online,Female,Morning
+739,4,Aalopuri,Fastfood,3,11,33,Online,Male,Night
+76,4,Aalopuri,Fastfood,3,9,27,Cash,Male,Evening
+741,4,Aalopuri,Fastfood,3,5,15,Online,Male,Afternoon
+742,4,Panipuri,Fastfood,3,14,42,Online,Male,Night
+743,4,Panipuri,Fastfood,3,1,3,Cash,Male,Morning
+744,4,Frankie,Fastfood,8,10,80,Cash,Female,Morning
+745,4,Aalopuri,Fastfood,3,2,6,Online,Male,Morning
+746,4,Sugarcane juice,Beverages,4,5,20,Online,Female,Evening
+747,4,Cold coffee,Beverages,6,3,18,Cash,Female,Evening
+748,4,Sandwich,Fastfood,10,14,140,Cash,Female,Night
+749,4,Vadapav,Fastfood,3,11,33,Cash,Male,Morning
+78,4,Frankie,Fastfood,8,1,8,Online,Male,Morning
+751,4,Vadapav,Fastfood,3,2,6,Cash,Male,Afternoon
+752,4,Panipuri,Fastfood,3,2,6,Online,Female,Morning
+753,4,Sugarcane juice,Beverages,4,1,4,Cash,Male,Evening
+754,4,Sugarcane juice,Beverages,4,14,56,Cash,Female,Morning
+755,4,Aalopuri,Fastfood,3,12,36,Cash,Female,Night
+756,4,Sugarcane juice,Beverages,4,10,40,Online,Female,Morning
+757,4,Sugarcane juice,Beverages,4,11,44,Online,Male,Morning
+758,4,Vadapav,Fastfood,3,3,9,Cash,Female,Morning
+759,4,Sugarcane juice,Beverages,4,13,52,Online,Male,Evening
+710,4,Sugarcane juice,Beverages,4,1,4,Online,Female,Morning
+761,4,Sandwich,Fastfood,10,3,30,Online,Female,Evening
+762,4,Vadapav,Fastfood,3,12,36,Online,Female,Evening
+763,4,Vadapav,Fastfood,3,14,42,Online,Female,Night
+764,4,Sandwich,Fastfood,10,7,70,Cash,Female,Night
+765,4,Sandwich,Fastfood,10,13,130,Cash,Male,Night
+766,4,Sandwich,Fastfood,10,10,100,Online,Female,Morning
+767,4,Frankie,Fastfood,8,8,64,Cash,Female,Afternoon
+768,4,Sandwich,Fastfood,10,14,140,Cash,Male,Afternoon
+769,4,Frankie,Fastfood,8,8,64,Cash,Male,Morning
+770,4,Aalopuri,Fastfood,3,8,24,Cash,Female,Morning
+771,4,Panipuri,Fastfood,3,5,15,Online,Female,Evening
+772,4,Cold coffee,Beverages,6,9,54,Cash,Male,Morning
+773,4,Cold coffee,Beverages,6,7,42,Online,Male,Afternoon
+774,4,Vadapav,Fastfood,3,1,3,Online,Female,Night
+775,4,Sandwich,Fastfood,10,6,60,Cash,Male,Night
+776,4,Frankie,Fastfood,8,10,80,Cash,Male,Evening
+777,4,Panipuri,Fastfood,3,13,39,Cash,Male,Morning
+778,4,Frankie,Fastfood,8,13,104,Cash,Male,Morning
+779,4,Sandwich,Fastfood,10,13,130,Online,Male,Night
+780,4,Sugarcane juice,Beverages,4,13,52,Online,Female,Afternoon
+781,4,Aalopuri,Fastfood,3,10,30,Online,Male,Evening
+782,4,Aalopuri,Fastfood,3,5,15,Online,Male,Night
+783,4,Aalopuri,Fastfood,3,8,24,Cash,Male,Morning
+784,4,Vadapav,Fastfood,3,8,24,Cash,Female,Morning
+785,4,Aalopuri,Fastfood,3,2,6,Online,Male,Afternoon
+786,4,Sandwich,Fastfood,10,14,140,Online,Female,Night
+787,4,Aalopuri,Fastfood,3,2,6,Cash,Female,Afternoon
+788,4,Sugarcane juice,Beverages,4,7,28,Online,Male,Afternoon
+789,4,Sugarcane juice,Beverages,4,7,28,Cash,Male,Morning
+790,4,Panipuri,Fastfood,3,3,9,Cash,Female,Morning
+791,4,Vadapav,Fastfood,3,3,9,Online,Male,Evening
+792,10,Vadapav,Fastfood,3,2,6,Cash,Female,Morning
+793,10,Sandwich,Fastfood,10,6,60,Cash,Female,Night
+794,10,Sugarcane juice,Beverages,4,5,20,Online,Male,Afternoon
+795,10,Vadapav,Fastfood,3,9,27,Cash,Male,Morning
+796,10,Sugarcane juice,Beverages,4,14,56,Online,Male,Night
+797,10,Cold coffee,Beverages,6,11,66,Cash,Male,Night
+798,10,Frankie,Fastfood,8,12,96,Online,Male,Night
+799,10,Panipuri,Fastfood,3,1,3,Online,Female,Night
+800,10,Cold coffee,Beverages,6,14,84,Cash,Male,Night
+801,10,Aalopuri,Fastfood,3,7,21,Cash,Female,Morning
+802,10,Sandwich,Fastfood,10,7,70,Online,Female,Afternoon
+803,10,Vadapav,Fastfood,3,5,15,Online,Male,Night
+804,10,Cold coffee,Beverages,6,12,72,Online,Female,Night
+805,10,Sugarcane juice,Beverages,4,1,4,Online,Male,Afternoon
+806,10,Vadapav,Fastfood,3,3,9,Online,Male,Morning
+807,10,Frankie,Fastfood,8,1,8,Online,Female,Evening
+808,10,Panipuri,Fastfood,3,1,3,Online,Male,Morning
+809,10,Panipuri,Fastfood,3,10,30,Online,Male,Morning
+810,10,Vadapav,Fastfood,3,3,9,Online,Male,Morning
+811,10,Aalopuri,Fastfood,3,13,39,Cash,Male,Afternoon
+812,10,Panipuri,Fastfood,3,5,15,Cash,Male,Afternoon
+813,10,Panipuri,Fastfood,3,10,30,Online,Male,Afternoon
+814,10,Vadapav,Fastfood,3,13,39,Cash,Female,Evening
+815,10,Cold coffee,Beverages,6,12,72,Online,Female,Afternoon
+816,10,Sugarcane juice,Beverages,4,11,44,Cash,Male,Morning
+817,10,Aalopuri,Fastfood,3,12,36,Cash,Female,Morning
+818,10,Frankie,Fastfood,8,6,48,Cash,Male,Night
+819,10,Vadapav,Fastfood,3,10,30,Cash,Male,Morning
+820,10,Aalopuri,Fastfood,3,3,9,Online,Male,Evening
+821,10,Aalopuri,Fastfood,3,12,36,Cash,Female,Evening
+822,10,Panipuri,Fastfood,3,12,36,Online,Male,Morning
+823,10,Panipuri,Fastfood,3,11,33,Online,Male,Evening
+824,10,Vadapav,Fastfood,3,2,6,Online,Female,Morning
+825,10,Panipuri,Fastfood,3,14,42,Cash,Female,Morning
+826,10,Sandwich,Fastfood,10,15,150,Cash,Female,Night
+827,10,Sandwich,Fastfood,10,12,120,Cash,Male,Evening
+828,10,Panipuri,Fastfood,3,6,18,Cash,Male,Morning
+829,10,Cold coffee,Beverages,6,6,36,Cash,Male,Night
+830,10,Cold coffee,Beverages,6,9,54,Online,Male,Night
+831,10,Frankie,Fastfood,8,5,40,Online,Female,Morning
+832,10,Sugarcane juice,Beverages,4,4,16,Cash,Male,Morning
+833,10,Panipuri,Fastfood,3,2,6,Online,Female,Morning
+834,10,Sugarcane juice,Beverages,4,14,56,Cash,Male,Morning
+835,10,Sugarcane juice,Beverages,4,7,28,Online,Male,Afternoon
+836,10,Vadapav,Fastfood,3,2,6,Cash,Female,Evening
+837,10,Aalopuri,Fastfood,3,7,21,Cash,Male,Evening
+838,10,Cold coffee,Beverages,6,9,54,Online,Female,Morning
+839,10,Sugarcane juice,Beverages,4,4,16,Cash,Female,Afternoon
+86,10,Cold coffee,Beverages,6,15,90,Online,Female,Evening
+841,10,Vadapav,Fastfood,3,9,27,Cash,Male,Night
+842,10,Panipuri,Fastfood,3,2,6,Cash,Female,Morning
+843,10,Sugarcane juice,Beverages,4,1,4,Cash,Female,Morning
+844,10,Sugarcane juice,Beverages,4,13,52,Cash,Male,Morning
+845,10,Cold coffee,Beverages,6,6,36,Online,Female,Morning
+846,10,Aalopuri,Fastfood,3,5,15,Online,Male,Afternoon
+847,10,Panipuri,Fastfood,3,11,33,Online,Male,Evening
+848,10,Frankie,Fastfood,8,9,72,Cash,Male,Night
+849,10,Cold coffee,Beverages,6,10,60,Cash,Female,Night
+88,10,Vadapav,Fastfood,3,3,9,Online,Female,Afternoon
+851,10,Aalopuri,Fastfood,3,15,45,Online,Female,Night
+852,10,Sugarcane juice,Beverages,4,8,32,Online,Male,Night
+853,10,Cold coffee,Beverages,6,3,18,Online,Female,Evening
+854,10,Cold coffee,Beverages,6,14,84,Online,Female,Night
+855,10,Vadapav,Fastfood,3,5,15,Online,Male,Morning
+856,10,Aalopuri,Fastfood,3,11,33,Cash,Female,Night
+857,10,Sugarcane juice,Beverages,4,14,56,Online,Female,Morning
+858,10,Cold coffee,Beverages,6,9,54,Cash,Male,Morning
+859,10,Sandwich,Fastfood,10,11,110,Cash,Female,Evening
+810,10,Cold coffee,Beverages,6,5,30,Cash,Male,Night
+861,10,Sugarcane juice,Beverages,4,8,32,Cash,Female,Night
+862,10,Frankie,Fastfood,8,7,56,Online,Male,Night
+863,10,Frankie,Fastfood,8,9,72,Online,Male,Night
+864,10,Cold coffee,Beverages,6,9,54,Online,Male,Morning
+865,10,Sugarcane juice,Beverages,4,6,24,Cash,Female,Night
+866,10,Frankie,Fastfood,8,10,80,Online,Male,Evening
+867,10,Frankie,Fastfood,8,15,120,Cash,Male,Evening
+868,10,Aalopuri,Fastfood,3,13,39,Cash,Female,Morning
+869,10,Panipuri,Fastfood,3,9,27,Online,Male,Evening
+870,10,Cold coffee,Beverages,6,5,30,Online,Female,Afternoon
+871,10,Vadapav,Fastfood,3,14,42,Online,Female,Morning
+872,10,Sandwich,Fastfood,10,12,120,Cash,Male,Afternoon
+873,10,Sugarcane juice,Beverages,4,1,4,Online,Male,Night
+874,10,Cold coffee,Beverages,6,4,24,Cash,Male,Evening
+875,10,Vadapav,Fastfood,3,15,45,Cash,Male,Morning
+876,10,Cold coffee,Beverages,6,8,48,Online,Female,Morning
+877,10,Sugarcane juice,Beverages,4,14,56,Cash,Female,Afternoon
+878,10,Sandwich,Fastfood,10,6,60,Online,Male,Morning
+879,10,Cold coffee,Beverages,6,9,54,Cash,Female,Morning
+880,10,Sugarcane juice,Beverages,4,5,20,Cash,Female,Morning
+881,10,Sandwich,Fastfood,10,2,20,Cash,Male,Evening
+882,10,Panipuri,Fastfood,3,9,27,Online,Male,Morning
+883,10,Aalopuri,Fastfood,3,5,15,Online,Female,Evening
+884,10,Vadapav,Fastfood,3,12,36,Online,Male,Night
+885,10,Sugarcane juice,Beverages,4,4,16,Cash,Male,Morning
+886,10,Sugarcane juice,Beverages,4,4,16,Cash,Female,Night
+887,10,Aalopuri,Fastfood,3,3,9,Cash,Male,Morning
+888,10,Vadapav,Fastfood,3,8,24,Cash,Male,Morning
+889,10,Vadapav,Fastfood,3,10,30,Online,Male,Evening
+890,10,Sugarcane juice,Beverages,4,5,20,Cash,Female,Morning
+891,10,Cold coffee,Beverages,6,11,66,Cash,Male,Evening
+892,10,Sugarcane juice,Beverages,4,7,28,Online,Female,Morning
+893,10,Sugarcane juice,Beverages,4,12,48,Cash,Female,Afternoon
+894,10,Sandwich,Fastfood,10,15,150,Cash,Male,Morning
+895,10,Sugarcane juice,Beverages,4,11,44,Cash,Male,Afternoon
+896,10,Aalopuri,Fastfood,3,13,39,Cash,Male,Night
+897,10,Aalopuri,Fastfood,3,6,18,Online,Male,Morning
+898,10,Frankie,Fastfood,8,8,64,Cash,Male,Afternoon
+899,10,Aalopuri,Fastfood,3,7,21,Cash,Male,Evening
+900,10,Sugarcane juice,Beverages,4,9,36,Online,Male,Afternoon
+901,10,Vadapav,Fastfood,3,7,21,Online,Female,Morning
+902,10,Frankie,Fastfood,8,4,32,Online,Male,Afternoon
+903,10,Aalopuri,Fastfood,3,15,45,Online,Male,Night
+904,10,Aalopuri,Fastfood,3,4,12,Cash,Female,Evening
+905,10,Frankie,Fastfood,8,15,120,Cash,Female,Evening
+906,10,Sandwich,Fastfood,10,15,150,Cash,Male,Afternoon
+907,10,Cold coffee,Beverages,6,4,24,Online,Female,Evening
+908,10,Sandwich,Fastfood,10,7,70,Cash,Female,Night
+909,10,Cold coffee,Beverages,6,12,72,Online,Female,Morning
+910,10,Panipuri,Fastfood,3,1,3,Cash,Female,Afternoon
+911,10,Sandwich,Fastfood,10,1,10,Cash,Male,Morning
+912,10,Aalopuri,Fastfood,3,6,18,Cash,Male,Morning
+913,10,Frankie,Fastfood,8,15,120,Online,Male,Morning
+914,10,Sandwich,Fastfood,10,14,140,Cash,Male,Night
+915,10,Cold coffee,Beverages,6,7,42,Online,Male,Afternoon
+916,10,Cold coffee,Beverages,6,15,90,Online,Female,Afternoon
+917,10,Vadapav,Fastfood,3,15,45,Online,Male,Morning
+918,10,Panipuri,Fastfood,3,6,18,Cash,Male,Morning
+919,10,Vadapav,Fastfood,3,8,24,Online,Female,Morning
+920,10,Frankie,Fastfood,8,13,104,Online,Male,Morning
+921,10,Vadapav,Fastfood,3,14,42,Cash,Male,Evening
+922,10,Frankie,Fastfood,8,5,40,Online,Female,Morning
+923,10,Cold coffee,Beverages,6,3,18,Online,Male,Morning
+924,10,Panipuri,Fastfood,3,14,42,Cash,Male,Afternoon
+925,10,Frankie,Fastfood,8,4,32,Online,Female,Afternoon
+926,10,Frankie,Fastfood,8,15,120,Cash,Female,Afternoon
+927,10,Cold coffee,Beverages,6,6,36,Online,Female,Morning
+928,10,Sandwich,Fastfood,10,11,110,Online,Male,Morning
+929,10,Frankie,Fastfood,8,9,72,Online,Female,Night
+930,10,Sugarcane juice,Beverages,4,10,40,Online,Male,Night
+931,10,Aalopuri,Fastfood,3,15,45,Cash,Male,Afternoon
+932,10,Sandwich,Fastfood,10,9,90,Online,Male,Afternoon
+933,10,Sugarcane juice,Beverages,4,15,60,Online,Female,Afternoon
+934,10,Cold coffee,Beverages,6,4,24,Cash,Female,Afternoon
+935,10,Sandwich,Fastfood,10,12,120,Cash,Male,Evening
+936,10,Panipuri,Fastfood,3,2,6,Online,Male,Evening
+937,10,Panipuri,Fastfood,3,4,12,Cash,Male,Night
+938,10,Sugarcane juice,Beverages,4,14,56,Cash,Male,Morning
+939,10,Vadapav,Fastfood,3,15,45,Online,Male,Evening
+96,10,Sugarcane juice,Beverages,4,14,56,Online,Female,Evening
+941,10,Cold coffee,Beverages,6,10,60,Online,Female,Morning
+942,10,Frankie,Fastfood,8,6,48,Cash,Male,Night
+943,10,Vadapav,Fastfood,3,6,18,Cash,Female,Night
+944,10,Aalopuri,Fastfood,3,2,6,Cash,Male,Evening
+945,10,Cold coffee,Beverages,6,2,12,Online,Female,Afternoon
+946,10,Sandwich,Fastfood,10,8,80,Cash,Male,Evening
+947,10,Aalopuri,Fastfood,3,11,33,Online,Male,Night
+948,10,Sandwich,Fastfood,10,10,100,Online,Male,Morning
+949,10,Panipuri,Fastfood,3,1,3,Cash,Female,Morning
+98,10,Frankie,Fastfood,8,6,48,Online,Female,Morning
+951,10,Panipuri,Fastfood,3,11,33,Cash,Female,Afternoon
+952,10,Aalopuri,Fastfood,3,14,42,Cash,Female,Morning
+953,10,Sandwich,Fastfood,10,2,20,Online,Female,Afternoon
+954,10,Aalopuri,Fastfood,3,3,9,Cash,Female,Evening
+955,10,Sugarcane juice,Beverages,4,7,28,Online,Male,Afternoon
+956,10,Frankie,Fastfood,8,13,104,Online,Male,Morning
+957,10,Panipuri,Fastfood,3,3,9,Online,Female,Evening
+958,10,Sandwich,Fastfood,10,11,110,Online,Female,Night
+959,10,Vadapav,Fastfood,3,8,24,Online,Female,Evening
+910,10,Sugarcane juice,Beverages,4,15,60,Online,Female,Morning
+961,10,Frankie,Fastfood,8,13,104,Cash,Male,Night
+962,10,Frankie,Fastfood,8,13,104,Online,Female,Afternoon
+963,10,Vadapav,Fastfood,3,6,18,Cash,Female,Morning
+964,10,Cold coffee,Beverages,6,8,48,Cash,Male,Morning
+965,10,Frankie,Fastfood,8,5,40,Online,Female,Night
+966,3,Panipuri,Fastfood,3,11,33,Online,Female,Morning
+967,3,Cold coffee,Beverages,6,14,84,Cash,Male,Afternoon
+968,3,Cold coffee,Beverages,6,15,90,Cash,Female,Morning
+969,3,Cold coffee,Beverages,6,11,66,Cash,Male,Morning
+970,3,Aalopuri,Fastfood,3,5,15,Online,Female,Afternoon
+971,3,Frankie,Fastfood,8,2,16,Cash,Female,Morning
+972,3,Aalopuri,Fastfood,3,1,3,Cash,Female,Afternoon
+973,3,Sugarcane juice,Beverages,4,1,4,Online,Female,Morning
+974,3,Vadapav,Fastfood,3,13,39,Online,Male,Afternoon
+975,3,Aalopuri,Fastfood,3,1,3,Cash,Male,Evening
+976,3,Sugarcane juice,Beverages,4,11,44,Online,Female,Morning
+977,3,Aalopuri,Fastfood,3,1,3,Cash,Male,Morning
+978,3,Frankie,Fastfood,8,2,16,Online,Male,Night
+979,3,Aalopuri,Fastfood,3,13,39,Cash,Female,Evening
+980,3,Vadapav,Fastfood,3,9,27,Online,Male,Morning
+981,3,Panipuri,Fastfood,3,15,45,Online,Male,Evening
+982,3,Sugarcane juice,Beverages,4,14,56,Cash,Female,Night
+983,3,Cold coffee,Beverages,6,10,60,Online,Female,Night
+984,3,Frankie,Fastfood,8,3,24,Cash,Male,Afternoon
+985,3,Frankie,Fastfood,8,1,8,Cash,Female,Afternoon
+986,3,Sugarcane juice,Beverages,4,13,52,Online,Male,Night
+987,3,Vadapav,Fastfood,3,3,9,Cash,Female,Morning
+988,3,Frankie,Fastfood,8,13,104,Online,Female,Night
+989,3,Cold coffee,Beverages,6,13,78,Cash,Male,Afternoon
+990,3,Vadapav,Fastfood,3,10,30,Online,Female,Morning
+991,3,Sandwich,Fastfood,10,7,70,Cash,Female,Night
+992,3,Sandwich,Fastfood,10,5,50,Cash,Male,Morning
+993,3,Frankie,Fastfood,8,3,24,Online,Female,Night
+994,3,Panipuri,Fastfood,3,2,6,Online,Female,Morning
+995,3,Sugarcane juice,Beverages,4,1,4,Online,Male,Night
+996,3,Frankie,Fastfood,8,10,80,Online,Female,Morning
+997,3,Sandwich,Fastfood,10,7,70,Online,Male,Morning
+998,3,Sandwich,Fastfood,10,13,130,Online,Male,Morning
+999,4,Panipuri,Fastfood,3,5,15,Online,Female,Afternoon
+1000,5,Aalopuri,Fastfood,3,3,9,Online,Female,Evening
